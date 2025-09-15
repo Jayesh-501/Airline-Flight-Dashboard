@@ -47,7 +47,7 @@ This project is an **Airline Flights Analysis Dashboard** created to analyze fli
 
 ## 📷 Dashboard Preview
 
-![Airline Dashboard Preview](Dashboard%20preview/Screenshot.png)
+![Airline Dashboard Preview]([Dashboard%20preview/Screenshot.png](https://github.com/Jayesh-501/Airline-Flight-Dashboard/blob/main/airlines_flights_dashboard.png))
 
 ---
 
